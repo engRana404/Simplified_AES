@@ -1,0 +1,6 @@
+﻿  saes_1901398.c
+C:\Users\DELL 3550\source\repos\saes_1901398.c\saes_1901398.c\saes_1901398.c(46,34): warning C4244: 'initializing': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+C:\Users\DELL 3550\source\repos\saes_1901398.c\saes_1901398.c\saes_1901398.c(47,34): warning C4244: 'initializing': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+C:\Users\DELL 3550\source\repos\saes_1901398.c\saes_1901398.c\saes_1901398.c(255,20): warning C4244: 'initializing': conversion from 'long' to 'uint16_t', possible loss of data
+C:\Users\DELL 3550\source\repos\saes_1901398.c\saes_1901398.c\saes_1901398.c(256,21): warning C4244: 'initializing': conversion from 'long' to 'uint16_t', possible loss of data
+  saes_1901398.c.vcxproj -> C:\Users\DELL 3550\source\repos\saes_1901398.c\x64\Debug\saes_1901398.exe
